@@ -49,6 +49,11 @@ footer {
     font-size: 14px;
 }
 
+.content::selection {
+    color:white;
+    background-color: green;
+}
+
 li {
     margin-bottom: 15px;
     list-style-type: none;
